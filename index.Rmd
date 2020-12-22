@@ -152,7 +152,7 @@ include_graphics("img/jurassic-park.jpg")
 
 --
 
-- Context collapse
+- Context collapse: worlds coming together in potentially undesired ways
 
 --
 
