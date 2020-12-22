@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Networked Learning in Online Communities</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="K. Bret Staudt Willet | Michigan State University" />
+    <meta name="date" content="2021-01-04" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link rel="stylesheet" href="custom.css" type="text/css" />
+    <link rel="stylesheet" href="custom-fonts.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: left, bottom, title-slide
+
+# Networked Learning in Online Communities
+## Possibilities and Perils
+### K. Bret Staudt Willet | Michigan State University
+### January 4, 2021
+
+---
+
+
+
+
+class: inverse, center, middle
+
+# Slides
+
+[bretsw.github.io/job-talk-uf](https://bretsw.github.io/job-talk-uf)
+
+---
+
+class: inverse, center, middle
+
+# Background
+
+&lt;img src="img/edu-verse.jpg" width="720px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Networked learning
+
+&lt;img src="img/network.jpg" width="600px" style="display: block; margin: auto;" /&gt;
+
+--
+
+The internet is an advanced learning technology
+
+--
+
+whose affordances and constraints create novel social and environmental conditions for learning
+
+---
+
+# Networked learning
+
+### My research agenda:
+
+&lt;img src="img/social-media.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+To better understand the **possibilities** and **perils** of networked learning in online communities
+
+--
+
+through data science and learning analytics approaches
+
+---
+
+# Networked learning possibilities
+
+&lt;img src="img/chat.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+**Why** do teachers come together through social media?
+
+--
+
+- to self-direct their professional learning
+
+--
+
+- to find and share teaching resources
+
+--
+
+- to vent and seek emotional support
+
+---
+
+# Networked learning possibilities
+
+&lt;img src="img/purpose.jpg" width="420px" style="display: block; margin: auto;" /&gt;
+
+--
+
+**When** do teachers come together through social media?
+
+--
+
+- Developing new skills
+
+--
+
+- Adopting new curriculum or standards
+
+--
+
+- Transitioning to a new job
+
+--
+
+- Navigating COVID-19 disruptions
+
+---
+
+# Networked learning perils
+
+&lt;img src="img/jurassic-park.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+"Your scientists were so preoccupied with whether they *could*, they didn't stop to think if they *should*." ~ Dr. Ian Malcolm, *Jurassic Park*
+
+--
+
+-	Demands for time, energy, cognitive load can overwhelm agency
+
+--
+
+- Context collapse
+
+--
+
+-	Data privacy, commodification of users
+
+---
+
+# Interdisciplinary research
+
+&lt;img src="img/purpose.jpg" width="420px" style="display: block; margin: auto;" /&gt;
+
+This work is brings together ideas from numerous disciplines:
+
+--
+
+- Learning analytics and data science
+
+--
+
+- Emerging technologies
+
+--
+
+- Information science
+
+--
+
+- Teacher education and teacher learning
+
+---
+
+# Multiple methods
+
+&lt;img src="img/csed-graph.png" width="360px" style="display: block; margin: auto;" /&gt;
+
+This work analyzes **digital traces** in a variety of ways:
+
+--
+
+- **Contribution trends**
+
+--
+
+- **Text analysis**: sentiment, discourse, natural language processing
+
+--
+
+- **Text classification**: topic modeling  (log odds ratio, PCA topics), machine learning (logistic regression classifier)
+
+--
+
+- **Social network analysis**: visual, descriptive (reciprocity, transitivity), inferential (influence, selection, spin glass clustering)
+
+---
+
+class: inverse, center, middle
+
+# Roadmap
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Roadmap
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+--
+
+1. Project A: Different spaces for different purposes
+
+--
+
+1. Project B: Adaptability of purposes
+
+--
+
+1. Implications
+
+--
+
+1. Future research
+
+---
+
+class: inverse, left, top
+
+# 1. Project A: Different spaces for different purposes
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+Roadmap:
+1. **Project A: Different spaces for different purposes**
+1. Project B: Adaptability of purposes
+1. Implications
+1. Future research
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+--
+
+- Teachers on Reddit? Exploring contributions ands interactions in four teaching-related subreddits (*Journal of Research on Technology in Education*, 2020)
+
+--
+
+- A tale of two subreddits: Change and continuity in teaching-related online spaces (*British Journal of Educational Technology*, 2021)
+
+--
+
+&lt;img src="img/across-time.jpg" width="600px" style="display: block; margin: auto;" /&gt;
+
+**Question:** How have the r/Teachers and r/education subreddits changed, or remained the same, over time?
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Rise and fall of Myspace**
+
+&lt;img src="img/myspace.png" width="600px" style="display: block; margin: auto;" /&gt;
+
+[*Image source: Business Insider (2011)*](https://www.businessinsider.com/chart-of-the-day-the-fall-of-myspace-2011-6)
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+&lt;img src="img/reddit-logo.png" width="200px" style="display: block; margin: auto;" /&gt;
+
+**Reddit background**
+
+--
+
+1. \#7 website in the United States; \#18 in the world
+
+--
+
+1. Collection of discussion forums (i.e., **subreddits**)
+
+--
+
+1. Threaded discussions: **posts** and **responses**
+
+--
+
+1. Voting: **+1** or **-1**
+
+--
+
+1. Anonymity
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Reddit example**
+
+&lt;img src="img/reddit-example.jpg" width="840" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+&lt;img src="img/reddit-logo.png" width="240px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Education in general (e.g., r/education)
+
+--
+
+- Education level (e.g., r/highereducation)
+
+--
+
+- Subject area (e.g., r/historyteachers, r/matheducation, r/MusicEd)
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Comparing two subreddits:**
+
+[**reddit.com/r/Teachers**](https://www.reddit.com/r/Teachers/) | [**reddit.com/r/education**](https://www.reddit.com/r/education/)
+
+&lt;img src="img/teacher.jpg" width="360px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Both  part of the Reddit Education Network (16 subreddits)
+
+--
+
+- Highest subscription of teaching-related subreddits
+
+--
+
+  - **r/Teachers:** 192,000 subscribers
+
+--
+
+  - **r/education:** 119,000 subscribers
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Framework: Learning ecologies**
+
+&lt;img src="img/network.jpg" width="480x" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Complementary components
+
+--
+
+- Transitions (i.e., change over time)
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Framework: Affinity spaces**
+
+&lt;img src="img/empty-space.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Individual contributions
+
+--
+
+- Content interactions
+
+--
+
+- Social interactions
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+&lt;img src="img/reddit-logo.png" width="200px" style="display: block; margin: auto;" /&gt;
+
+**Data collection of digital traces:**
+
+--
+
+- **3.5 years** (42 months): from January 1, 2016 to June 30, 2019
+
+--
+
+- More than a million Reddit contributions spanning three-and-a-half years:
+
+--
+
+  - 54,933 posts and 641,727 comments in **r/Teachers** from 55,148 users
+
+--
+
+  - 252,340 posts and 87,278 comments in **r/education** from 43,711 users
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+&lt;img src="img/reddit-logo.png" width="200px" style="display: block; margin: auto;" /&gt;
+
+**Analysis:** Trends over 3.5 years &amp;mdash; five quantitative and qualitative measures: 
+
+--
+
+- **Quantitative analysis** of individual contributions, content interactions, and social interactions
+
+--
+
+- **Qualitative analysis** of topics of conversation and types of discourse in top-ten posts (defined by highest voting scores) in each subreddit, and up to the top-ten responses to each of these
+
+--
+
+- 2 subreddits x 7 time periods x 10 posts =  **140 posts**
+
+--
+
+- 2 subreddits x 7 time periods x 100 responses = **1,460 responses**
+
+---
+
+# Different spaces, purposes
+
+**Daily contributions to r/Teachers and r/education**
+
+&lt;img src="img/subreddit-contributions-over-time-comparison.png" width="840px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Different spaces, purposes
+
+**Post topics and discourse in r/Teachers and r/education**
+
+&lt;img src="img/subreddit-post-plot-bar.png" width="450px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Different spaces, purposes
+
+**Change and continuity**
+
+&lt;img src="img/threads.jpg" width="360px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- **r/Teachers:** Individual contributions increased steadily, clustering decreased, mutuality increased, topics consistently included teachers’ lived experiences and pedagogy
+  
+--
+
+- **r/education:** Posts and posters declined, thread length increased, clustering decreased, mutuality increased, topics consistently included education policy and societal factors
+  
+---
+
+# Different spaces, purposes
+
+**Distinct purposes**
+
+&lt;img src="img/social-media.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- **r/Teachers:** a conversational space or a teachers’ lounge 
+
+--
+
+  - many responses, long threads, educators' lived experiences
+
+--
+
+- **r/education:** a bulletin board space or a debate hall
+
+--
+
+  - many posts, few responses, more content-focused
+
+---
+
+# Different spaces, purposes
+
+**Significance**
+
+&lt;img src="img/scatter.jpg" width="360px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Teachers' self-directed learning is tied to context and has a temporal dimension
+
+--
+
+- Need to advise aspiring teachers how best to combine different spaces for maximum effect
+
+--
+
+- There is value to anonymous spaces for educators
+
+--
+
+  - Example: Place to vent and unburden emotions from COVID-19 disruptions and frustrations
+
+---
+
+# Different spaces, purposes
+
+### Project A: Teaching-related subreddits
+
+**Conclusion**
+
+&lt;img src="img/across-time.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Self-directed learning on Reddit is different than visiting a library
+
+--
+
+- Educators must work to become critical consumers of ideas and materials encountered in online spaces 
+
+--
+
+- Educators, instructional designers, and scholars must continue to reflect upon and analyze both opportunities and challenges of self-directed learning in the complex ecologies of social media spaces
+
+---
+
+class: inverse, left, top
+
+# 2. Project B: Adaptability of purposes
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+Roadmap:
+1. Project A: Different spaces for different purposes
+1. **Project B: Adaptability of purposes**
+1. Implications
+1. Future research
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+- {tidytags} R package (*ROpenSci*, in revision)
+
+--
+
+- The educational response to COVID-19 across two countries: A critical examination of initial digital pedagogy adoption (*Technology, Pedagogy and Education*, 2021)
+
+--
+
+- Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19 (*British Journal of Educational Technology*, in revision)
+
+--
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+**Questions:**
+
+1. How, if it all, did participation in #Edchat change during COVID-19?
+1. What questions did teachers ask in #Edchat during COVID-19? 
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**Twitter background**
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+--
+
+1. \#35 website in the United States; \#46 in the world
+
+--
+
+1. Microblogging platform: Collection of many brief posts of 280 characters or less (i.e., **tweets**)
+
+--
+
+1. Ad hoc discussions: **replies** and **quote tweets**
+
+--
+
+1. Signal boosting: **likes** and **retweets**
+
+--
+
+1. Twitter profiles are often linked to real identities
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+&lt;img src="img/tweet-example.png" width="540" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**Many different uses of Twitter hashtags**
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Topical index: #Teaching
+
+--
+
+- Humor and wit: #CoolTeacher
+
+--
+
+- Synchronous chats: #SatChat
+
+--
+
+- "Space" for ongoing discussions: #Edchat, #ITeachMath
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**\#Edchat background**
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- \#Edchat is one of the oldest and busiest educational Twitter hashtags
+
+--
+
+- \#Edchat is self-described as:
+
+&gt; "...Twitter discussion that any educator can discuss and learn about current teaching trends, to integrate technology, to transform their education, and to connect with inspiring instructors around the world."
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**Framework: Professional learning networks (PLNs)**
+
+&lt;img src="img/network.jpg" width="420x" style="display: block; margin: auto;" /&gt;
+
+--
+
+PLNs are systems of: 
+
+--
+
+- interpersonal **connections** 
+
+--
+
+- and **resources** (knowledge, skills, curricular materials, and encouragement)
+
+--
+
+- that support **informal learning**
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+The worldwide COVID-19 pandemic in 2020 has resulted in economic and social disruption of an unprecedented scale.
+
+--
+
+Is Twitter a flexible and adaptable part of teachers' PLNs?
+
+--
+
+**Questions:**
+
+1. How, if it all, did participation in #Edchat change during COVID-19?
+1. What questions did teachers ask in #Edchat during COVID-19? 
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+**Data collection of digital traces:**
+
+--
+
+- Collected tweet from March 1 - May 31, 2019 and 2020:
+
+--
+
+  - 332,067 tweets in **2019**
+
+--
+
+  - 257,703 tweets in **2020**
+  
+--
+
+- Compared tweets containing **questions** in 2019 vs. 2020:
+
+--
+
+  - 15,584 question tweets in **2019**
+
+--
+
+  - 12,901 question tweets in **2020**
+
+---
+
+# Adaptability of purposes
+
+**Daily \#Edchat tweets in 2019 vs. 2020**
+
+&lt;img src="img/daily-tweets-comparison.png" width="840px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Adaptability of purposes
+
+**Hashtags in \#Edchat tweets in 2019 vs. 2020**
+
+&lt;img src="img/hashtag-comparison-scatter.png" width="840px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Adaptability of purposes
+
+**Topics in \#Edchat question tweets in 2019 vs. 2020**
+
+&lt;img src="img/topics-2019-2020-questions.png" width="680px" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**Findings**
+
+&lt;img src="img/hashtag.jpg" width="180px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Across all topics in both years, terms like edtech, learn(-ing), teach(-ing or -er), and school were common
+
+--
+
+- **2019:** Looking for help &amp;mdash; new K-12 resources (Topics 1, 3), related to classroom teaching (Topics 4, 5), and specific subjects like reading (Topic 2)
+
+--
+
+- **2020:** Increased sense of urgency (Topics 1, 2), appeals to fellow educators through “edutwitter" seeking free classroom resources (Topic 5), pandemic themes( Topics 3, 4)
+
+---
+
+# Adaptability of purposes
+
+### Project B: Educational Twitter hashtags
+
+**Significance**
+
+&lt;img src="img/scatter.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Flexible content
+
+--
+
+- Just-in-time professional development through an emergency response network
+
+---
+
+class: inverse, left, top
+
+# 3. Implications
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+Roadmap:
+1. Project A: Different spaces for different purposes
+1. Project B: Adaptability of purposes
+1. **Implications**
+1. Future research
+
+---
+
+# Implications
+
+### Networked learning in online communities
+
+**Possibilities**
+
+&lt;img src="img/possibilities.jpg" width="360px" style="display: block; margin: auto;" /&gt;
+
+--
+
+Social media platforms online learning environments as part of broad **learning ecologies**, characterized by:
+
+--
+
+- Complementary components (different spaces for different purposes)
+
+--
+
+- Transitions (change over time)
+
+--
+
+- Intentional participation in and use of PLNs (adaptability of purposes)
+
+---
+
+# Implications
+
+### Networked learning in online communities
+
+**Perils**
+
+&lt;img src="img/jurassic-park.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Volume and noise
+
+--
+
+- Variety of negative actors
+
+--
+
+- Companies driven by profits at expense of users
+
+--
+
+- Agency is a finite resource
+
+---
+
+class: inverse, left, top
+
+# 4. Future research
+
+&lt;img src="img/map.jpg" width="840px" style="display: block; margin: auto;" /&gt;
+
+Roadmap:
+1. Project A: Different spaces for different purposes
+1. Project B: Adaptability of purposes
+1. Implications
+1. **Future research**
+
+---
+
+# Future research
+
+### Networked learning in online communities
+
+&lt;img src="img/edu-verse.jpg" width="600px" style="display: block; margin: auto;" /&gt;
+
+--
+
+My past work has shown that data science and learning analytics techniques can bring important insight into teachers' professional learning through social media
+
+---
+
+# Future research
+
+### Networked learning in online communities
+
+&lt;img src="img/transition.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+More work is needed to understand **learning during transitions**:
+
+--
+
+- Disaster response (e.g., pandemics)
+
+--
+
+- Job transitions (e.g., new teachers, new faculty, promotions)
+
+--
+
+- Skill development (e.g., educational data science)
+  
+---
+
+# Future research
+
+### Networked learning in online communities
+
+&lt;img src="img/ethics.png" width="480px" style="display: block; margin: auto;" /&gt;
+
+More work is needed around **technoethics**:
+
+--
+
+- Balancing privacy and open science
+  
+--
+
+- Recommendations for social media users and dissemination of research
+  
+--
+
+- Accountability for tech companies
+
+---
+
+# Future research
+
+### Networked learning in online communities
+
+&lt;img src="img/construction.jpg" width="480px" style="display: block; margin: auto;" /&gt;
+
+More work is needed **to keep building and improving** these works-in-progress:
+
+--
+
+- R packages for data collection and analysis (Twitter, Reddit)
+
+--
+
+- Web apps for classifying learning spaces (Twitter, Reddit)
+
+---
+
+# Networked learning
+
+&lt;img src="img/network.jpg" width="540px" style="display: block; margin: auto;" /&gt;
+
+--
+
+- Affordances and constraints of the internet create novel social and environmental conditions for learning
+
+--
+
+- These can be studied through data science and learning analytics techniques
+
+--
+
+- This advanced learning technology is worth further study and investment
+
+---
+
+class: inverse, left, top
+
+# Questions?
+
+&lt;img src="img/question.jpg" width="360px" style="display: block; margin: auto;" /&gt;
+
+* **Email:** [staudtwi@msu.edu](mailto:staudtwi@msu.edu)
+
+* **Web:** [bretsw.com](http://bretsw.com)
+
+* **Twitter:** [@bretsw](https://twitter.com/bretsw)
+
+* **GitHub:** [bretsw](https://github.com/bretsw)
+
+* **Slides:** [bretsw.github.io/job-talk-uf](https://bretsw.github.io/job-talk-uf)
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
