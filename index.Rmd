@@ -45,7 +45,37 @@ class: inverse, center, middle
 
 # Introduction
 
-**Networked Learning in Online Communities**
+---
+
+class: inverse, center, top
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
+```
+
+My research investigates networked learning
+
+in a variety of online communities,
+
+addressing both possibilities and perils
+
+by employing numerous learning analytics techniques.
+
+---
+
+class: inverse, center, top
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
+```
+
+My research investigates <span style="color:yellow">**networked learning**</span>
+
+in a variety of online communities,
+
+addressing both possibilities and perils
+
+by employing numerous learning analytics techniques.
 
 ---
 
@@ -55,17 +85,57 @@ class: inverse, center, middle
 include_graphics("img/network.jpg")
 ```
 
---
-
-- **Definition:** The learning supported by the novel social and environmental conditions created by the internet
+**Definition:** 
 
 --
 
-  - Especially *self-directed* and *just-in-time* (i.e., as needed) learning
+- The learning supported by the novel social and environmental conditions created by the internet.
 
 --
 
-- **Examples:** searching for curricular materials, looking for peers to discuss ideas for a lesson, seeking out encouragement after a tough day
+- Especially *informal*, *self-directed*, and *just-in-time* (i.e., as needed) learning.
+
+---
+
+# Networked learning
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/network.jpg")
+```
+
+**Examples:** 
+
+--
+
+- Asking a specific question
+
+--
+
+- Looking for peers to discuss ideas and brainstorm
+
+--
+
+- Seeking out encouragement after a tough day
+
+--
+
+- A teacher searching for curricular materials
+
+---
+
+class: inverse, center, top
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
+```
+
+My research investigates networked learning
+
+in a variety of <span style="color:yellow">**online communities**</span>,
+
+addressing both possibilities and perils
+
+by employing numerous learning analytics techniques.
 
 ---
 
@@ -75,43 +145,175 @@ include_graphics("img/network.jpg")
 include_graphics("img/computer.jpg")
 ```
 
---
-
-- **Definition:** A group coming together online around a shared affinity
+**Definition:** 
 
 --
 
-  - This often occurs *informally*, in a *self-organized* way
+- A group coming together around a shared affinity through the internet
 
 --
 
-  - May not resemble a traditional, offline community (e.g., local neighborhood, civic organization)
+- This often occurs *informally*, in a *self-organized* way
 
 --
 
-- **Examples:** Facebook group, Twitter hashtag, subreddit
+- May not resemble a traditional, offline community (e.g., local neighborhood, civic organization)
+
+---
+
+# Online communities
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/computer.jpg")
+```
+
+**Examples:** 
+
+--
+
+- Facebook group
+
+--
+
+- Twitter hashtag
+
+--
+
+- subreddit
+
+---
+
+class: inverse, center, top
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
+```
+
+My research investigates networked learning
+
+in a variety of online communities,
+
+addressing both <span style="color:yellow">**possibilities and perils**</span>
+
+by employing numerous learning analytics techniques.
+
+---
+
+# Possibilities
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/ampitheater.jpg")
+```
+
+--
+
+- Meeting of the minds
+
+--
+
+- Grassroots democratic movements
+
+--
+
+- Equality for all
+
+--
+
+- A place for everyone
+
+--
+
+- The informal influencing the formal
+
+---
+
+# Perils
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/caution.jpg")
+```
+
+--
+
+- Time required &mdash; some people have more discretionary time than others
+
+--
+
+- Blurred boundaries (between public and private, personal and professional)
+
+--
+
+- Noise and spam
+
+--
+
+- Divisiveness
+
+--
+
+- Uneven harassment &mdash; some people are targeted more than others
 
 ---
 
 # Possibilities and perils
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/caution.jpg")
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/jurassic-park.jpg")
 ```
 
-Networked learning in online communities raises both **possibilities** and **perils**
+<p style="font-size:66%">
+Krutka, D. G., Heath, M. K., & Staudt Willet, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. <i>Journal of Technology and Teacher Education, 27</i>(4), 555-574. http://learntechlib.org/p/208235/
+</p>
+
+<hr>
+
+### "Your scientists were so preoccupied with whether they *could*, they didn't stop to think if they *should*."
+
+~ Dr. Ian Malcolm, *Jurassic Park*
+
+---
+
+# Possibilities and perils
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/jurassic-park.jpg")
+```
+
+Alternative title for this talk: 
+
+<hr>
+
+**Networked learning: Your bioengineered T-Rex is awesome, but she will likely eat you**
+
+<hr>
 
 ---
 
 class: inverse, center, middle
 
-# Methods
+# What can be done with this?
+
+---
+
+class: inverse, center, top
+
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
+```
+
+My research investigates networked learning
+
+in a variety of online communities,
+
+addressing both possibilities and perils
+
+by employing numerous <span style="color:yellow">**learning analytics**</span> techniques.
 
 ---
 
 #  Digital traces
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/purpose.jpg")
 ```
 
@@ -123,6 +325,30 @@ include_graphics("img/purpose.jpg")
 
 - **Examples:** tweets, forum posts, user profiles
 
+--
+
+- **Collection:** through educational data mining
+
+---
+
+#  Digital traces
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/purpose.jpg")
+```
+
+--
+
+**Significance:** 
+
+--
+
+- Ability to unobtrusively gather real-world, *in situ* data
+
+--
+
+- *Digital traces* complement more traditional *self-report* methods (reducing bias)
+
 ---
 
 # Learning analytics
@@ -131,11 +357,13 @@ include_graphics("img/purpose.jpg")
 include_graphics("img/code.jpg")
 ```
 
-**Data science and learning analytics** techniques have allowed me to:
+--
+
+**Learning analytics** techniques have allowed me to:
 
 --
 
-- Study real world, *in situ* data in massive quantities
+- Handle massive quantities of data
 
 --
 
@@ -155,14 +383,15 @@ include_graphics("img/R-logo.png")
 
 --
 
-- Large datasets do not open in Excel, so I learned **R**
+Large datasets do not open in Excel, so I learned **R**
 
 --
 
-  - programming language and environment for statistical computing and graphics
+- R is a programming language and environment for statistical computing and graphics
 
+--
 
-- Numerous *packages*:
+- R has numerous *packages*:
 
 --
 
@@ -186,11 +415,23 @@ include_graphics("img/package.png")
 
 --
 
-Sometimes, the tools you need don't exist yet.
+Sometimes, the tools I need don't exist yet.
 
 --
 
-- I wanted to make data collection and analysis easier for others, so I built an R software package: **tidytags**
+- I wanted to make Twitter data collection and analysis easier for others 
+
+--
+
+  - so I built an R software package: **tidytags**
+
+---
+
+# tidytags
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/package.png")
+```
 
 --
 
@@ -200,67 +441,63 @@ Sometimes, the tools you need don't exist yet.
 
 - Freely available at https://bretsw.github.io/tidytags/
 
----
+--
 
-class: inverse, center, middle
-
-# My research
+- **Significance:** Makes big data, digital trace methods more accessible to a broader range of social scientists (reducing bias)
 
 ---
 
-# In sum
+class: inverse, center, top
 
-```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
-include_graphics("img/caution.jpg")
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+include_graphics("img/roadmap.jpg")
 ```
 
---
+My research investigates networked learning
 
-My research uses numerous **data science and learning analytics** techniques
+in a variety of online communities,
 
---
+addressing both possibilities and perils
 
-to address the **possibilities** and **perils** of networked learning 
-
---
-
-in a variety of contexts for online communities.
+by employing numerous learning analytics techniques.
 
 ---
 
 class: inverse, center, middle
 
-# Five studies
+# Five dimensions of networked learning
+
+---
+
+class: inverse, left, top
+
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-**Possibilities and perils of:**
-
-1. Twitter as a platform for teacher communities
-1. Possibilities and perils of dealing with spam
-1. Synchronous chats on Twitter
-1. Online communities during a global pandemic
-1. Reddit as a platform for teacher communities
+1. Broad understanding of participation in online communities
+2. Dealing with noise in online communities
+3. Planned events in online communities
+4. Unexpected changes in online communities
+5. Long-term trends in online communities
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# 1. Twitter communities
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-Possibilities and perils of:
-
-1. **Twitter as a platform for teacher communities**
-1. Dealing with spam
-1. Synchronous chats on Twitter
-1. Online communities during a global pandemic
-1. Reddit as a platform for teacher communities
+1. <span style="color:yellow">**Broad understanding of participation in online communities**</span>
+2. Dealing with noise in online communities
+3. Planned events in online communities
+4. Unexpected changes in online communities
+5. Long-term trends in online communities
 
 ---
 
@@ -278,7 +515,24 @@ Staudt Willet, K. B. (2019). Revisiting how and why educators use Twitter: Tweet
 
 --
 
-**Context:** Twitter (\#Edchat hashtag)
+
+**Question:** How and why do teachers use Twitter?
+
+--
+
+**Platform:** Twitter
+
+--
+
+**Community:** \#Edchat hashtag
+
+---
+
+# 1. Twitter communities
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/twitter-purposes.png")
+```
 
 --
 
@@ -286,7 +540,15 @@ Staudt Willet, K. B. (2019). Revisiting how and why educators use Twitter: Tweet
 
 --
 
-**Data analysis:** tweet type classification, discourse analysis 
+**Data analysis:** 
+
+--
+
+- Classification of tweet types
+
+--
+
+- Discourse analysis 
 
 ---
 
@@ -322,7 +584,7 @@ include_graphics("img/hashtag.jpg")
 
 --
 
-- "Space" for ongoing discussions: #Edchat, #ITeachMath
+- "Space" for ongoing discussions: #ITeachMath
 
 ---
 
@@ -384,21 +646,21 @@ Staudt Willet, K. B., & Willet, B. D. (2018, October). Look who’s talking: Usi
 
 --
 
-- Goal: Automatically detect tweet purposes through a *logistic regression classifier*
+**Goal:** Automatically detect tweet purposes through a *logistic regression classifier*
 
 --
 
-  - identified 39 tweet features
+- Identified 39 tweet features to build the classifier
 
 --
 
-  - compared efficacy of 10 different ML methods (e.g., random forest, *k*-nearest neighbors)
+- Compared efficacy of 10 different ML methods (e.g., random forest, *k*-nearest neighbors)
 
 ---
 
 # 1. Twitter communities
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/twitter-purposes.png")
 ```
 
@@ -406,11 +668,7 @@ include_graphics("img/twitter-purposes.png")
 
 --
 
-- Huge amount of \#Edchat content (i.e., approximately 5,000 daily tweets)
-
---
-
-- Overwhelmingly on topic
+- Huge amount of on-topic educational content (i.e., approximately 5,000 daily \#Edchat tweets)
 
 --
   
@@ -418,13 +676,13 @@ include_graphics("img/twitter-purposes.png")
 
 --
 
-- Supports different needs
+- Informal online learning environment likely holds implications for formal teaching and learning
 
 ---
 
 # 1. Twitter communities
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/twitter-purposes.png")
 ```
 
@@ -432,7 +690,7 @@ include_graphics("img/twitter-purposes.png")
 
 --
 
-- Imbalance of needs being supported (e.g., nearly half of new \#Edchat content is **self-promotional** in nature)
+- Imbalance of needs being supported (e.g., nearly half of new \#Edchat content is self-promotional in nature)
 
 --
 
@@ -440,25 +698,25 @@ include_graphics("img/twitter-purposes.png")
 
 --
 
-- Trouble with relying on one data source (self-reports or digital traces)
+- Volume (and noise) of content is likely overwhelming for researchers
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# 2. Twitter spam
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-Possibilities and perils of:
+**Possibilities and perils of:**
 
-1. Twitter as a platform for teacher communities
-1. **Dealing with spam**
-1. Synchronous chats on Twitter
-1. Online communities during a global pandemic
-1. Reddit as a platform for teacher communities
+1. Broad understanding of participation in online communities
+2. <span style="color:yellow">**Dealing with noise in online communities**</span>
+3. Planned events in online communities
+4. Unexpected changes in online communities
+5. Long-term trends in online communities
 
 ---
 
@@ -476,7 +734,23 @@ Carpenter, J. P., Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (202
 
 --
 
-**Context:** Twitter (variety of educational hashtags, e.g., #Edchat, #SatChat)
+**Question:** What are the implications of spam for online communities?
+
+--
+
+**Platform:** Twitter
+
+--
+
+**Communities:** \#Edchat, \#SatChat hashtags
+
+---
+
+# 2. Twitter spam
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/spam.png")
+```
 
 --
 
@@ -484,7 +758,15 @@ Carpenter, J. P., Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (202
 
 --
 
-**Data analysis:** secondary analysis, spam detection
+**Data analysis:** 
+
+--
+
+- Spam detection
+
+--
+
+- Secondary analysis
 
 ---
 
@@ -506,10 +788,6 @@ include_graphics("img/spam.png")
 
 --
 
-- Users generally seem ok with ignoring spam
-
---
-
 - Researchers can identify spam and remove it from datasets
 
 --
@@ -528,29 +806,29 @@ include_graphics("img/spam.png")
 
 --
 
-- One account can skew perceptions of a whole community
+- One account can skew perceptions, and experiences, of a whole community
 
 --
 
-- Time intensive to deal with spam
+- Takes time, sometimes a lot, to deal with spam
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# 3. Twitter chats
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-Possibilities and perils of:
+**Possibilities and perils of:**
 
-1. Twitter as a platform for teacher communities
-1. Dealing with spam
-1. **Synchronous chats on Twitter**
-1. Online communities during a global pandemic
-1. Reddit as a platform for teacher communities
+1. Broad understanding of participation in online communities
+2. Dealing with noise in online communities
+3. <span style="color:yellow">**Planned events in online communities**</span>
+4. Unexpected changes in online communities
+5. Long-term trends in online communities
 
 ---
 
@@ -568,7 +846,23 @@ Greenhalgh, S. P., Rosenberg, J. M., Staudt Willet, K. B., Koehler, M. J., & Akc
 
 --
 
-**Context:** Twitter (\#michED hashtag)
+**Question:** How do chat and non-chat contexts differ in Twitter communities?
+
+--
+
+**Platform:** Twitter
+
+--
+
+**Community:** \#michED hashtag
+
+---
+
+# 3. Twitter chats
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/timing.png")
+```
 
 --
 
@@ -576,7 +870,15 @@ Greenhalgh, S. P., Rosenberg, J. M., Staudt Willet, K. B., Koehler, M. J., & Akc
 
 --
 
-**Data analysis:** natural language processing, multi-level modeling
+**Data analysis:** 
+
+--
+
+- Natural language processing
+
+--
+
+- Multi-level modeling
 
 ---
 
@@ -656,15 +958,15 @@ include_graphics("img/timing.png")
 
 --
 
-- Community within a community: the same digital space may be used in different ways
+- The same digital space may be used in different ways:
 
 --
 
-- Chats generate especially high volume (muhc higher tweet density)
-
+  - e.g., focused burst of conversation requiring higher cognitive and social processing
+  
 --
 
-- Chats generate conversational engagement (higher cognitive and social proocessing)
+  - Community within a community
 
 ---
 
@@ -678,33 +980,33 @@ include_graphics("img/timing.png")
 
 --
 
-- Volume may be too high (i.e., 360 tweets/hour = a new tweet every 10 seconds)
+- Volume may be too high (e.g., a new tweet every 10 seconds)
 
 --
 
-- Less connecting to broader perspectives during a chat (i.e., fewer mentions, hashtags, hyperlinks)
+- Less connected to broader perspectives during a chat (i.e., fewer mentions, hashtags, hyperlinks)
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# 4. Pandemic Twitter
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-Possibilities and perils of:
+**Possibilities and perils of:**
 
-1. Twitter as a platform for teacher communities
-1. Dealing with spam
-1. Synchronous chats on Twitter
-1. **Online communities during a global pandemic**
-1. Reddit as a platform for teacher communities
+1. Broad understanding of participation in online communities
+2. Dealing with noise in online communities
+3. Planned events in online communities
+4. <span style="color:yellow">**Unexpected changes in online communities**</span>
+5. Long-term trends in online communities
 
 ---
 
-# 4. Pandemic Twitter
+# 4. Twitter during a pandemic
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/covid.png")
@@ -718,7 +1020,23 @@ Greenhow, C. M., Staudt Willet, K. B., & Galvin, S. (in revision). Inquiring twe
 
 --
 
-**Context:** Twitter (\#Edchat hashtag)
+**Question:** How have Twitter communities changed during COVID-19?
+
+--
+
+**Platform:** Twitter
+
+--
+
+**Community:** \#Edchat hashtag
+
+---
+
+# 4. Twitter during a pandemic
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/covid.png")
+```
 
 --
 
@@ -726,11 +1044,23 @@ Greenhow, C. M., Staudt Willet, K. B., & Galvin, S. (in revision). Inquiring twe
 
 --
 
-**Data analysis:** trend analysis, natural language processing, topic modeling
+**Data analysis:**
+
+--
+
+- Trend analysis
+
+--
+
+- Natural language processing
+
+--
+
+- Topic modeling
 
 ---
 
-# 4. Pandemic Twitter
+# 4. Twitter during a pandemic
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/covid.png")
@@ -742,6 +1072,7 @@ include_graphics("img/covid.png")
 
 Common terms across all topics in both years:
 
+- education
 - edtech
 - learn(-ing)
 - teach(-ing or -er)
@@ -749,7 +1080,7 @@ Common terms across all topics in both years:
 
 ---
 
-# 4. Pandemic Twitter
+# 4. Twitter during a pandemic
 
 ### Findings
  
@@ -763,7 +1094,7 @@ knitr::kable(
       "One topic: Reading"
     ),
     c("Two topics: Communicating a sense of urgency", 
-      "Two topics: Pandemic themes",
+      "Two topics: Pandemic themes (e.g., #RemoteTeaching",
       "One topic: Appealing to fellow educators (i.e., 'edutwitter') for free classroom resources"
     )
   ),
@@ -786,11 +1117,19 @@ knitr::kable(
   kableExtra::row_spec(0, align = 'center')
 ```
 
+--
+
+- Primary purpose of the community (i.e., education, ed tech) remains the same
+
+--
+
+- Conversation in the community adapts to external, contextual circumstances
+
 ---
 
-# 4. Pandemic Twitter
+# 4. Twitter during a pandemic
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/covid.png")
 ```
 
@@ -798,20 +1137,13 @@ include_graphics("img/covid.png")
 
 --
 
-- Online communities adapt to external, contextual circumstances
-
---
-
-- Primary purpose of the community (i.e., education, ed tech) remains the same
---
-
-- Multiple needs are supported
+- Researchers are able to study rapid changes as they occur (i.e., can collect data now and continuously)
 
 ---
 
-# 4. Pandemic Twitter
+# 4. Twitter during a pandemic
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/covid.png")
 ```
 
@@ -819,33 +1151,29 @@ include_graphics("img/covid.png")
 
 --
 
-- Unknown quality of resources and opinions being shared
-
---
-
 - Exacerbates existing differences between those who have time and agency to independently pursue their own supports and those who don't
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# 5. Reddit communities
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
 ```
 
-Possibilities and perils of:
+**Possibilities and perils of:**
 
-1. Twitter as a platform for teacher communities
-1. Dealing with spam
-1. Synchronous chats on Twitter
-1. Online communities during a global pandemic
-1. **Reddit as a platform for teacher communities**
+1. Broad understanding of participation in online communities
+2. Dealing with noise in online communities
+3. Planned events in online communities
+4. Unexpected changes in online communities
+5. <span style="color:yellow">**Long-term trends in online communities**</span>
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/across-time.jpg")
@@ -859,7 +1187,23 @@ Staudt Willet, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: C
 
 --
 
-**Context:** Reddit (themed discussion forums called *subreddits*)
+**Question:** How has teachers' Reddit use changed over time?
+
+--
+
+**Platform:** Reddit
+
+--
+
+**Communities:** r/Teachers, r/education subreddits
+
+---
+
+# 5. Reddit trends
+
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
+include_graphics("img/across-time.jpg")
+```
 
 --
 
@@ -867,11 +1211,23 @@ Staudt Willet, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: C
 
 --
 
-**Data analysis:** trend analysis, natural language processing, social network analysis
+**Data analysis:** 
+
+--
+
+- Trend analysis
+
+--
+
+- Natural language processing
+
+--
+
+- Social network analysis
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ### Findings
  
@@ -911,7 +1267,7 @@ knitr::kable(
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ### Findings
 
@@ -921,7 +1277,7 @@ include_graphics("img/subreddit-posts-daily.png")
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ### Findings
 
@@ -931,7 +1287,7 @@ include_graphics("img/subreddit-posts-response-rate.png")
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ### Findings
 
@@ -941,7 +1297,7 @@ include_graphics("img/subreddit-posts-thread-length.png")
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
 ### Findings
 
@@ -951,9 +1307,9 @@ include_graphics("img/subreddit-posts-hyperlink-only.png")
 
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/across-time.jpg")
 ```
 
@@ -961,29 +1317,17 @@ include_graphics("img/across-time.jpg")
 
 --
 
-- Reddit communities are big and growing (despite fewer posts in r/education)
+- Rules and moderation make a difference: improving quality of conversation
 
 --
 
 - Variety of topics, potentially something for everyone
 
---
-
-- Moderated space may improve focus and quality of conversation
-
---
-
-- Anonymity may increase honesty in sharing
-
---
-
-- Continuity and change of various measures in relationship with each other may suggest more nuanced interpretation
-
 ---
 
-# 5. Reddit communities
+# 5. Reddit trends
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/across-time.jpg")
 ```
 
@@ -991,25 +1335,17 @@ include_graphics("img/across-time.jpg")
 
 --
 
-- Uneven experience between communities and within communities
-
---
-
-- Overwhelmingly predominant sharing of hyperlinks alone in r/education
-
---
-
-- Anonymity may increase toxicity in sharing
-
---
-
 - Online participation can change quickly, meaning a snapshot may be misleading
+
+--
+
+- Uneven experience between communities and within communities
 
 ---
 
-class: inverse, center, middle
+class: inverse, left, top
 
-# Five studies
+# Five dimensions of networked learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/map.jpg")
@@ -1017,11 +1353,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Twitter as a platform for teacher communities
-1. Possibilities and perils of dealing with spam
-1. Synchronous chats on Twitter
-1. Online communities during a global pandemic
-1. Reddit as a platform for teacher communities
+1. Broad understanding of participation in online communities
+2. Dealing with noise in online communities
+3. Planned events in online communities
+4. Unexpected changes in online communities
+5. Long-term trends in online communities
 
 ---
 
@@ -1033,67 +1369,107 @@ class: inverse, center, middle
 
 # Possibilities
 
-```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/chat.jpg")
 ```
 
 --
 
-- Many online communities are big, sustained, growing.
+**For participants:** 
 
 --
 
--	**For participants:** There's something for everyone: resources, links to articles, conversations, encouragement, social hang outs
+- There's something for everyone: 
 
 --
 
--	**For researchers:** Public behavior, open to study, big complex data
+  - resources, links to articles
+
+--
+
+  - encouragement
+
+--
+
+  - conversations and social hang outs
+
+---
+
+# Possibilities
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/chat.jpg")
+```
+
+**For researchers:**
+
+--
+
+- Massive amounts of data available
+
+--
+
+- Public activity and behavior
+
+--
+
+- Can be studied as it happens
 
 ---
 
 # Perils
 
-```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/caution.jpg")
 ```
 
 --
 
-- **Equity** issues are foregrounded: takes time to self-direct learning and build informal online communities &mdash; *Who has time to keep up?*
+**For participants:** 
 
 --
 
--	**For participants:** Uneven experience: spam, self-promotion, sharing links without context or comment
+- Equity issues are foregrounded:
 
 --
 
--	**For researchers:** Complicated and nuanced ethical concerns get raised
+  - Time required
+
+--
+
+  - Blurred boundaries (e.g., self-promotion)
+
+--
+
+  - Uneven harassment
 
 ---
 
-# Possibilities and perils
+# Perils
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/jurassic-park.jpg")
+include_graphics("img/caution.jpg")
 ```
 
-"Your scientists were so preoccupied with whether they *could*, they didn't stop to think if they *should*."
-
-~ Dr. Ian Malcolm, *Jurassic Park*
+**For researchers:** 
 
 --
 
-<hr>
+- Massive amounts of *messy* data available
 
-Alternative talk title: 
+--
 
-*Networked learning: Your bioengineered T-Rex is awesome, but she will likely eat you*
+- Complicated and nuanced *methodological* concerns get raised
+
+--
+
+- Complicated and nuanced *ethical* concerns get raised
 
 ---
 
 class: inverse, center, middle
 
-# Future research
+# My next steps
 
 ---
 
@@ -1103,61 +1479,89 @@ class: inverse, center, middle
 include_graphics("img/construction.jpg")
 ```
 
-I will **develop tools** to support networked learning research:
+I will design **tools** to support researchers and designers of networked learning.
 
 --
 
-- R package for Reddit data collection and analysis
+- R packages (e.g., to aid Reddit data collection and analysis)
 
 --
 
-- Web apps for characterizing online communities on Twitter and Reddit
+- Web apps (e.g., for categorizing online communities on Twitter and Reddit)
 
 ---
 
-# Literacies
+# Tools
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/construction.jpg")
+```
+
+I will design **tools** to support networked learning researchers and designers.
+
+*These could fit Russell Sage Foundation grants for Computational Social Science or the Alfred P. Sloan Foundation grants for Data & Computational Research.*
+
+---
+
+# Networked learning literacies
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/transition.jpg")
 ```
 
-I will **develop digital literacies** for teachers coming into the field
+I will design **networked learning literacies** for practitioners.
 
 --
 
-- Create recommendations for using social media to pursue the possibilities of networked learning and avoid the perils:
+- Recommendations for using social media to pursue the *possibilities* of networked learning and avoid the *perils*
 
 --
 
-- Create guidelines for emergency disaster response (e.g., pandemic)
+- Guidelines for emergency response (e.g., pandemic, natural disaster)
 
 --
 
-- Create guidelines for job transitions: e.g., new teachers, new faculty, promotions (in progress)
+- Guidelines for job transitions (e.g., new teachers, new faculty, promotions)
+
+---
+
+# Networked learning literacies
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/transition.jpg")
+```
+
+I will design **networked learning literacies** for practitioners.
+
+*These could fit NSF grants for Research on Learning in Formal and Informal Settings or Innovative Technology Experiences for Students and Teachers (ITEST).*
 
 ---
 
 # Equity
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
-include_graphics("img/ethics.png")
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/help.jpg")
 ```
 
 --
 
-I will **develop communities focused on equity** 
+I will design **equitable communities**.
 
 --
 
-- Create recommendations for building and facilitating online communities that address inequities
+- Conduct research to understand participants better (e.g., agency of users with minoritized identities, motivations of "lurkers")
 
 --
 
-- Leverage research findings to incorporate social media features (e.g., moderation) to increase inclusivity
+- Craft recommendations that address inequities of networked learning in online communities (e.g., rules, moderation) 
 
---
+---
 
-- Research motivations of participation by "lurkers" to better engage them
+class: inverse, center, middle
+
+# My next steps
+
+I will design tools, networked learning literacies, and equitable communities
 
 ---
 
