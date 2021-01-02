@@ -207,23 +207,19 @@ include_graphics("img/ampitheater.jpg")
 
 --
 
-- Meeting of the minds
+- Learning spans both physical and digital spaces
+
+<p style="font-size:50%">
+Greenhow, C., Robelia, B., & Hughes, J. E. (2009). Learning, teaching, and scholarship in a digital age: Web 2.0 and classroom research: What path should we take now?. <i>Educational Researcher, 38</i>(4), 246-259.
+</p>
 
 --
 
-- Grassroots democratic movements
+- Informal learning influences learning in formal settings
 
---
-
-- Equality for all
-
---
-
-- A place for everyone
-
---
-
-- The informal influencing the formal
+<p style="font-size:50%">
+Peters, M., & Romero, M. (2019). Lifelong learning ecologies in online higher education: Students' engagement in the continuum between formal and informal learning. <i>British Journal of Educational Technology, 50</i>(4), 1729-1743. 
+</p>
 
 ---
 
@@ -235,23 +231,23 @@ include_graphics("img/caution.jpg")
 
 --
 
-- Time required &mdash; some people have more discretionary time than others
+- Blurred boundaries between public and private, personal and professional
+
+<p style="font-size:50%">
+Fox, A., & Bird, T. (2017). The challenge to professionals of using social media: Teachers in England negotiating personal-professional identities. <i>Education and Information Technologies, 22</i>(2), 647–675.
+</p>
+
+<p style="font-size:50%">
+Selwyn, N., Nemorin, S., & Johnson, N. (2017). High-tech, hard work: An investigation of teachers’ work in the digital age. <i>Learning, Media and Technology, 42</i>, 390–405.
+</p>
 
 --
 
-- Blurred boundaries (between public and private, personal and professional)
+- Harassment and abuse
 
---
-
-- Noise and spam
-
---
-
-- Divisiveness
-
---
-
-- Uneven harassment &mdash; some people are targeted more than others
+<p style="font-size:50%">
+Veletsianos, G., Houlden, S., Hodson, J., & Gosse, C. (2018). Women scholars’ experiences with online harassment and abuse: Self-protection, resistance, acceptance, and self-blame. <i>New Media & Society, 20</i>(12), 4689-4708.
+</p>
 
 ---
 
@@ -261,7 +257,7 @@ include_graphics("img/caution.jpg")
 include_graphics("img/jurassic-park.jpg")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Krutka, D. G., Heath, M. K., & Staudt Willet, K. B. (2019). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. <i>Journal of Technology and Teacher Education, 27</i>(4), 555-574. http://learntechlib.org/p/208235/
 </p>
 
@@ -283,15 +279,9 @@ Alternative title for this talk:
 
 <hr>
 
-**Networked learning: Your bioengineered T-Rex is awesome, but she will likely eat you**
+**Networked learning: Your bioengineered T-Rex is awesome, but those teeth are sharp**
 
 <hr>
-
----
-
-class: inverse, center, middle
-
-# What can be done with this?
 
 ---
 
@@ -319,15 +309,15 @@ include_graphics("img/purpose.jpg")
 
 --
 
-- **Definition:** Residual, observable evidence of online activity
+To understand the complexities of networked learning, I study **digital traces** of activity and behavior in online communities. 
 
 --
 
-- **Examples:** tweets, forum posts, user profiles
+- That is, I unobtrusively gather real-world, *in situ* data
 
 --
 
-- **Collection:** through educational data mining
+- These *digital traces* complement more traditional *self-report* methods (reducing bias)
 
 ---
 
@@ -339,15 +329,15 @@ include_graphics("img/purpose.jpg")
 
 --
 
-**Significance:** 
+- **Definition:** Residual, observable evidence of online activity
 
 --
 
-- Ability to unobtrusively gather real-world, *in situ* data
+- **Examples:** tweets, forum posts, user profiles
 
 --
 
-- *Digital traces* complement more traditional *self-report* methods (reducing bias)
+- **Collection:** through techniques shared with educational data mining
 
 ---
 
@@ -391,7 +381,7 @@ Large datasets do not open in Excel, so I learned **R**
 
 --
 
-- R has numerous *packages*:
+- R has numerous *packages* useful for learning analytics:
 
 --
 
@@ -419,7 +409,12 @@ Sometimes, the tools I need don't exist yet.
 
 --
 
-- I wanted to make Twitter data collection and analysis easier for others 
+- E.g., collecting tweets over time, processing Twitter data, and systematically analyze with a learning analytics perspective
+
+--
+
+
+  - I wanted to this Twitter data collection and analysis workflow easier for others 
 
 --
 
@@ -465,6 +460,14 @@ by employing numerous learning analytics techniques.
 
 class: inverse, center, middle
 
+# Teachers' professional learning 
+
+**(informal, ongoing professional development)**
+
+---
+
+class: inverse, center, middle
+
 # Five dimensions of networked learning
 
 ---
@@ -477,11 +480,11 @@ class: inverse, left, top
 include_graphics("img/map.jpg")
 ```
 
-1. Broad understanding of participation in online communities
-2. Dealing with noise in online communities
-3. Planned events in online communities
-4. Unexpected changes in online communities
-5. Long-term trends in online communities
+1. Broad understanding of learning as participation in online communities
+2. Dealing with noise as an impediment to learning in online communities
+3. Planned learning events in online communities
+4. Unexpected disruptions to learning in online communities
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -493,11 +496,11 @@ class: inverse, left, top
 include_graphics("img/map.jpg")
 ```
 
-1. <span style="color:yellow">**Broad understanding of participation in online communities**</span>
-2. Dealing with noise in online communities
-3. Planned events in online communities
-4. Unexpected changes in online communities
-5. Long-term trends in online communities
+1. <span style="color:yellow">**Broad understanding of learning as participation in online communities**</span>
+2. Dealing with noise as an impediment to learning in online communities
+3. Planned learning events in online communities
+4. Unexpected disruptions to learning in online communities
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -507,7 +510,7 @@ include_graphics("img/map.jpg")
 include_graphics("img/twitter-purposes.png")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Staudt Willet, K. B. (2019). Revisiting how and why educators use Twitter: Tweet types and purposes in #Edchat. <i>Journal of Research on Technology in Education, 51</i>, 273-289. https://doi.org/10.1080/15391523.2019.1611507
 </p>
 
@@ -609,7 +612,7 @@ include_graphics("img/hashtag.jpg")
 # 1. Twitter communities
 
 ```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
-include_graphics("img/twitter-retweets.png")
+include_graphics("img/twitter-original.png")
 ```
 
 ---
@@ -617,7 +620,7 @@ include_graphics("img/twitter-retweets.png")
 # 1. Twitter communities
 
 ```{r, out.width = "840px", echo = FALSE, fig.align = "center"}
-include_graphics("img/twitter-original.png")
+include_graphics("img/twitter-retweets.png")
 ```
 
 ---
@@ -638,7 +641,7 @@ include_graphics("img/sort.jpg")
 
 ### Machine learning classifier
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Staudt Willet, K. B., & Willet, B. D. (2018, October). Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats. In <i>AoIR selected papers of internet research</i>. Association of Internet Researchers. https://spir.aoir.org/ojs/index.php/spir/article/view/10512
 </p>
 
@@ -712,11 +715,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Broad understanding of participation in online communities
-2. <span style="color:yellow">**Dealing with noise in online communities**</span>
-3. Planned events in online communities
-4. Unexpected changes in online communities
-5. Long-term trends in online communities
+1. Broad understanding of learning as participation in online communities
+2. <span style="color:yellow">**Dealing with noise as an impediment to learning in online communities**</span>
+3. Planned learning events in online communities
+4. Unexpected disruptions to learning in online communities
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -726,7 +729,7 @@ include_graphics("img/map.jpg")
 include_graphics("img/spam.png")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Carpenter, J. P., Staudt Willet, K. B., Koehler, M. J., & Greenhalgh, S. P. (2020). Spam and educators’ Twitter use: Methodological considerations and challenges. <i>TechTrends, 64</i>, 460-469. https://doi.org/10.1007/s11528-019-00466-3
 </p>
 
@@ -824,11 +827,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Broad understanding of participation in online communities
-2. Dealing with noise in online communities
-3. <span style="color:yellow">**Planned events in online communities**</span>
-4. Unexpected changes in online communities
-5. Long-term trends in online communities
+1. Broad understanding of learning as participation in online communities
+2. Dealing with noise as an impediment to learning in online communities
+3. <span style="color:yellow">**Planned learning events in online communities**</span>
+4. Unexpected disruptions to learning in online communities
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -838,7 +841,7 @@ include_graphics("img/map.jpg")
 include_graphics("img/timing.png")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Greenhalgh, S. P., Rosenberg, J. M., Staudt Willet, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. <i>Computers and Education, 148</i>, 103809. https://doi.org/10.1016/j.compedu.2020.103809
 </p>
 
@@ -998,11 +1001,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Broad understanding of participation in online communities
-2. Dealing with noise in online communities
-3. Planned events in online communities
-4. <span style="color:yellow">**Unexpected changes in online communities**</span>
-5. Long-term trends in online communities
+1. Broad understanding of learning as participation in online communities
+2. Dealing with noise as an impediment to learning in online communities
+3. Planned learning events in online communities
+4. <span style="color:yellow">**Unexpected disruptions to learning in online communities**</span>
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -1012,7 +1015,7 @@ include_graphics("img/map.jpg")
 include_graphics("img/covid.png")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Greenhow, C. M., Staudt Willet, K. B., & Galvin, S. (in revision). Inquiring tweets want to know: #Edchat supports for #RemoteTeaching during COVID-19. <i>British Journal of Educational Technology</i>.
 </p>
 
@@ -1151,7 +1154,11 @@ include_graphics("img/covid.png")
 
 --
 
-- Exacerbates existing differences between those who have time and agency to independently pursue their own supports and those who don't
+- Less time and agency for everyone during a crisis
+
+--
+
+- Evaluation of opportunity costs
 
 ---
 
@@ -1165,11 +1172,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Broad understanding of participation in online communities
-2. Dealing with noise in online communities
-3. Planned events in online communities
-4. Unexpected changes in online communities
-5. <span style="color:yellow">**Long-term trends in online communities**</span>
+1. Broad understanding of learning as participation in online communities
+2. Dealing with noise as an impediment to learning in online communities
+3. Planned learning events in online communities
+4. Unexpected disruptions to learning in online communities
+5. <span style="color:yellow">**Long-term trends and implications for learning in online communities**</span>
 
 ---
 
@@ -1179,7 +1186,7 @@ include_graphics("img/map.jpg")
 include_graphics("img/across-time.jpg")
 ```
 
-<p style="font-size:66%">
+<p style="font-size:50%">
 Staudt Willet, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. <i>British Journal of Educational Technology</i>. https://doi.org/10.1111/bjet.13051
 </p>
 
@@ -1299,16 +1306,6 @@ include_graphics("img/subreddit-posts-thread-length.png")
 
 # 5. Reddit trends
 
-### Findings
-
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
-include_graphics("img/subreddit-posts-hyperlink-only.png")
-```
-
----
-
-# 5. Reddit trends
-
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/across-time.jpg")
 ```
@@ -1353,11 +1350,11 @@ include_graphics("img/map.jpg")
 
 **Possibilities and perils of:**
 
-1. Broad understanding of participation in online communities
-2. Dealing with noise in online communities
-3. Planned events in online communities
-4. Unexpected changes in online communities
-5. Long-term trends in online communities
+1. Broad understanding of learning as participation in online communities
+2. Dealing with noise as an impediment to learning in online communities
+3. Planned learning events in online communities
+4. Unexpected disruptions to learning in online communities
+5. Long-term trends and implications for learning in online communities
 
 ---
 
@@ -1379,19 +1376,11 @@ include_graphics("img/chat.jpg")
 
 --
 
-- There's something for everyone: 
+- There's something for everyone: resources, links to articles, encouragement, conversations, social hang outs
 
 --
 
-  - resources, links to articles
-
---
-
-  - encouragement
-
---
-
-  - conversations and social hang outs
+- Opportunity for informal participation in online communities to influence formal teaching and learning
 
 ---
 
@@ -1437,11 +1426,11 @@ include_graphics("img/caution.jpg")
 
 --
 
-  - Blurred boundaries (e.g., self-promotion)
+  - Opportunity costs
 
 --
 
-  - Uneven harassment
+  - Blurred boundaries
 
 ---
 
@@ -1549,7 +1538,7 @@ I will design **equitable communities**.
 
 --
 
-- Conduct research to understand participants better (e.g., agency of users with minoritized identities, motivations of "lurkers")
+- Conduct research to understand participants better (e.g., agency of users with minoritized identities, harassment, motivations of "lurkers")
 
 --
 
