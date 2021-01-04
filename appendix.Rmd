@@ -93,7 +93,7 @@ include_graphics("img/subreddit-post-plot-bar.png")
 Putnam, R. T., & Borko, H. (2000). What do new views of knowledge and thinking have to say about research on teacher learning?. <i>Educational Researcher, 29</i>(1), 4-15.
 </p>
 
-- **Apprenticed** in a community of practice, with legitimate peripheral participation as a sttep toward identity development
+- **Apprenticed** in a community of practice, with legitimate peripheral participation as a step toward identity development
 
 <p style="font-size:50%">
 Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.
